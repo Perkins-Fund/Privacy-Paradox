@@ -1,8 +1,0 @@
-# Privacy Paradox - GitBook configuration
-# "We read the privacy policy so you don't have to."
-
-root: ./
-
-structure:
-  readme: README.md
-  summary: SUMMARY.md

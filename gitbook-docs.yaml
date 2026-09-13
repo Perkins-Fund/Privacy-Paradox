@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Privacy Paradox
+structure:
+  - type: space
+    key: privacy-paradox
+    title: Privacy Paradox
+    path: privacy-paradox
+    default: true
+    content:
+      directory: ./
