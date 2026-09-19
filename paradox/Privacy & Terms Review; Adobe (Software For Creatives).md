@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Adobe (Software for Creatives)
 
 ![Adobe Logo](Images/Adobe-Logo.jpg)
 

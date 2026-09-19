@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Garmin (Smartwatches, GPS Products)
 
 ![Garmin Logo](Images/Garmin-Logo.png)
 

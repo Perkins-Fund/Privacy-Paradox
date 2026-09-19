@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: OpenAI (Chat GPT, Artificial Intelligence)
 
 ![OpenAI Logo](Images/OpenAI-Logo.jpg)
 

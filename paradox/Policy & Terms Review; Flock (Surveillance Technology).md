@@ -1,6 +1,5 @@
-# I Read The Policies So You Don’t Have To: Flock (Surveillance Technology)
 
-![Flock Logo](Images/Flock-Logo.png)
+![Flock Logo](Images/Flock-Logo2.png)
 
 The Flock business model is interesting. Public sector organisations, businesses and residential spaces (HOA’s) pay to install camera’s which comes with access to software for the duration of their working agreement with Flock, to review the data collected through the camera, amongst some other functionalities.
 

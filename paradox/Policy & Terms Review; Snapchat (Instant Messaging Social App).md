@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Snapchat (Instant Messaging Social App)
 
 ![Snapchat Logo](Images/Snapchat-Logo.jpg)
 

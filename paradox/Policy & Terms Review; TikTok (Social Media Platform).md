@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: TikTok (Social Media Platform)
 
 ![TikTok Logo](Images/TikTok-Logo.jpg)
 

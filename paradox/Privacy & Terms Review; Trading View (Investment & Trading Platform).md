@@ -1,4 +1,3 @@
-# I Read The Policies So You Don't Have To; Trading View (Investment & Trading Platform)
 
 ![Trading View Logo](Images/Trading-View-Logo.png)
 

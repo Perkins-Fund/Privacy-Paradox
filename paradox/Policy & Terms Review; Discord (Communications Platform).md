@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Discord (Communications Platform)
 
 ![Discord Logo](Images/Discord-Logo.jpg)
 

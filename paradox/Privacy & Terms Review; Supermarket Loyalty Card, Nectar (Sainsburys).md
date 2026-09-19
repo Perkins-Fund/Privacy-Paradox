@@ -1,4 +1,3 @@
-# I Read The Policies So You Don't Have To: Supermarket Loyalty Card, Nectar (Sainsburys)
 
 ![Nectar Logo](Images/Nectar-Logo.jpg)
 

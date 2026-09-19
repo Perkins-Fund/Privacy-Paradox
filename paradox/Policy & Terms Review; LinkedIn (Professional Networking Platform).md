@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: LinkedIn (Professional Networking Platform)
 
 ![Linkedin Logo](Images/LinkedIn-Logo.png)
 

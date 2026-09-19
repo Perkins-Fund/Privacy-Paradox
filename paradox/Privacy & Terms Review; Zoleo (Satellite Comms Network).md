@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Zoleo (Satellite Comms Network)
 
 ![Zoleo Logo](Images/Zoleo-Logo.png)
 

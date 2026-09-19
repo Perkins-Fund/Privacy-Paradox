@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Proton (Privacy Focussed Suite)
 
 ![Proton Logo](Images/Proton-Logo.png)
 

@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Twitter/X (Social Media Platform)
 
 ![Twitter/X Logo](Images/Twitter-Logo.png)
 

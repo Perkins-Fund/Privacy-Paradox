@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Coinbase (Crypto Exchange)
 
 ![Coinbase Logo](Images/Coinbase-Logo.png)
 

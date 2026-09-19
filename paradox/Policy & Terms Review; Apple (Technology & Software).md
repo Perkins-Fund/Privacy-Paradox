@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Apple (Technology & Software)
 
 ![Apple Logo](Images/Apple-Logo.jpg)
 

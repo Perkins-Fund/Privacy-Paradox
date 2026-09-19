@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: LG (Smart TV’s, Apps, Smart Media Products)
 
 ![LG Logo](Images/LG-Logo.png)
 

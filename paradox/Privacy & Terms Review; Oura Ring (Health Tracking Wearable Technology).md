@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Oura Ring (Health Tracking Wearable Technology)
 
 ![Oura Ring Logo](Images/Oura-Logo.jpg)
 

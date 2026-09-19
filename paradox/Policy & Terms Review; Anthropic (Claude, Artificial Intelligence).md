@@ -1,6 +1,5 @@
-# I Read The Policies So You Don’t Have To: Anthropic (Claude, Artificial Intelligence)
 
-![Anthropic Logo](Images/Anthropic-Logo.png)
+![Anthropic Logo](Images/Anthropic-Logo2.jpg)
 
 *“Anthropic is an AI Safety and research company working to build reliable, interpretable and steerable AI systems”*, best known for Claude.
 

@@ -1,6 +1,5 @@
-# I Read The Policies So You Don’t Have To: BBC (Broadcasting Service)
 
-![BBC Logo](Images/BBC-Logo.png)
+![BBC Logo](Images/BBC-Logo2.jpg)
 
 The BBC Group consists of many separate corporate entities. As a group, they accrued revenue of £5.9 billion in 2024/25, of which £3.8 billion was from licence fees, the remaining near £2.2 billion was advertising revenue attained through reaching a reported audience of 453 million people each week globally through their digital services.
 

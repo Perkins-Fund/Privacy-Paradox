@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Google (Technology Giant)
 
 ![Google Logo](Images/Google-Logo.png)
 

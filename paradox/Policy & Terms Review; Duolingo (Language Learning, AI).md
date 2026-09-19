@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Duolingo (Language Learning, AI)
 
 ![Duolingo Logo](Images/Duolingo-Logo.jpg)
 

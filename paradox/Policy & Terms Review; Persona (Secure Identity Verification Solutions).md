@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have to: Persona (Secure Identity Verification Solutions)
 
 ![Persona Logo](Images/Persona-Logo.jpg)
 

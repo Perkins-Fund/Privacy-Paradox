@@ -1,4 +1,3 @@
-# I Read The Policies So You Don't Have To; Flo (Period, Ovulation & Pregnancy Tracking)
 
 ![Flo App Logo](Images/Flo-Logo.png)
 

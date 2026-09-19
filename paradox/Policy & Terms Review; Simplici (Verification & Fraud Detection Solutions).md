@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Simplici (Verification & Fraud Detection Solutions)
 
 ![Simplici Logo](Images/Simplici-Logo.jpg)
 

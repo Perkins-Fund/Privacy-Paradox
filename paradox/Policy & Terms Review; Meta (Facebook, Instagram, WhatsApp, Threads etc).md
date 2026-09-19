@@ -1,4 +1,3 @@
-# I Read The Policies So You Don’t Have To: Meta (Facebook, Instagram, WhatsApp, Threads etc)
 
 ![Meta Logo](Images/Meta-Logo.jpg)
 

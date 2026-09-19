@@ -1,4 +1,3 @@
-# I Read The Terms So You Don't Have To; Facewatch (UK Retail Facial Recognition)
 
 ![FaceWatch Logo](Images/Facewatch-Logo.png)
 
