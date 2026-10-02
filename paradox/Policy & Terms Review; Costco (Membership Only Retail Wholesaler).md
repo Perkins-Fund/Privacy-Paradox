@@ -84,7 +84,7 @@ Costco state in a very waffly way that they retain data in an ongoing fashion, p
 
 We are operating on a trust me bro basis with this one. 
 
-![Costco Logo](Images/Costco-Image-1.jpg)
+![Policy Screenshot](Images/Costco-Image-1.jpg)
 
 Automatic License Plate Recognition data is retained for *“approximately 180 days”* unless a reason warrants longer retention (incident investigation etc)
 
