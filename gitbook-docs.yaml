@@ -5,7 +5,7 @@ site:
     - type: space
       key: privacy-paradox
       title: PRIVACY PARADOX
-      path: /
+      path: undefined
       default: true
       content:
         directory: ./paradox
